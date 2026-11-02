@@ -1,0 +1,8 @@
+{
+  "name": "NEXO-SUBSCRIPTIONS-TEST",
+  "description": "نسخة تجريبية لتطوير نظام الاشتراكات",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
